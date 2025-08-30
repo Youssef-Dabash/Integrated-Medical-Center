@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\vsAllProject\\IntegratedMedicalCenter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56084403-9CE0-4B74-A9C5-73B5238A2543}|IntegratedMedicalCenter\\IntegratedMedicalCenter.csproj|e:\\vsallproject\\integratedmedicalcenter\\integratedmedicalcenter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56084403-9CE0-4B74-A9C5-73B5238A2543}|IntegratedMedicalCenter\\IntegratedMedicalCenter.csproj|solutionrelative:integratedmedicalcenter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56084403-9CE0-4B74-A9C5-73B5238A2543}|IntegratedMedicalCenter\\IntegratedMedicalCenter.csproj|e:\\vsallproject\\integratedmedicalcenter\\integratedmedicalcenter\\updateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56084403-9CE0-4B74-A9C5-73B5238A2543}|IntegratedMedicalCenter\\IntegratedMedicalCenter.csproj|solutionrelative:integratedmedicalcenter\\updateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56084403-9CE0-4B74-A9C5-73B5238A2543}|IntegratedMedicalCenter\\IntegratedMedicalCenter.csproj|e:\\vsallproject\\integratedmedicalcenter\\integratedmedicalcenter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56084403-9CE0-4B74-A9C5-73B5238A2543}|IntegratedMedicalCenter\\IntegratedMedicalCenter.csproj|solutionrelative:integratedmedicalcenter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56084403-9CE0-4B74-A9C5-73B5238A2543}|IntegratedMedicalCenter\\IntegratedMedicalCenter.csproj|e:\\vsallproject\\integratedmedicalcenter\\integratedmedicalcenter\\createnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56084403-9CE0-4B74-A9C5-73B5238A2543}|IntegratedMedicalCenter\\IntegratedMedicalCenter.csproj|solutionrelative:integratedmedicalcenter\\createnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56084403-9CE0-4B74-A9C5-73B5238A2543}|IntegratedMedicalCenter\\IntegratedMedicalCenter.csproj|E:\\vsAllProject\\IntegratedMedicalCenter\\integratedmedicalcenter\\updateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56084403-9CE0-4B74-A9C5-73B5238A2543}|IntegratedMedicalCenter\\IntegratedMedicalCenter.csproj|solutionrelative:integratedmedicalcenter\\updateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56084403-9CE0-4B74-A9C5-73B5238A2543}|IntegratedMedicalCenter\\IntegratedMedicalCenter.csproj|E:\\vsAllProject\\IntegratedMedicalCenter\\integratedmedicalcenter\\createnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56084403-9CE0-4B74-A9C5-73B5238A2543}|IntegratedMedicalCenter\\IntegratedMedicalCenter.csproj|solutionrelative:integratedmedicalcenter\\createnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateNew.cs",
+              "DocumentMoniker": "E:\\vsAllProject\\IntegratedMedicalCenter\\IntegratedMedicalCenter\\CreateNew.cs",
+              "RelativeDocumentMoniker": "IntegratedMedicalCenter\\CreateNew.cs",
+              "ToolTip": "E:\\vsAllProject\\IntegratedMedicalCenter\\IntegratedMedicalCenter\\CreateNew.cs",
+              "RelativeToolTip": "IntegratedMedicalCenter\\CreateNew.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAhwEEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:24:15.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateForm.cs",
+              "DocumentMoniker": "E:\\vsAllProject\\IntegratedMedicalCenter\\IntegratedMedicalCenter\\UpdateForm.cs",
+              "RelativeDocumentMoniker": "IntegratedMedicalCenter\\UpdateForm.cs",
+              "ToolTip": "E:\\vsAllProject\\IntegratedMedicalCenter\\IntegratedMedicalCenter\\UpdateForm.cs",
+              "RelativeToolTip": "IntegratedMedicalCenter\\UpdateForm.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:56:42.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\vsAllProject\\IntegratedMedicalCenter\\IntegratedMedicalCenter\\Form1.cs",
+              "RelativeDocumentMoniker": "IntegratedMedicalCenter\\Form1.cs",
+              "ToolTip": "E:\\vsAllProject\\IntegratedMedicalCenter\\IntegratedMedicalCenter\\Form1.cs",
+              "RelativeToolTip": "IntegratedMedicalCenter\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T22:48:31.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\vsAllProject\\IntegratedMedicalCenter\\IntegratedMedicalCenter\\Form1.cs",
+              "RelativeDocumentMoniker": "IntegratedMedicalCenter\\Form1.cs",
+              "ToolTip": "E:\\vsAllProject\\IntegratedMedicalCenter\\IntegratedMedicalCenter\\Form1.cs [Design]",
+              "RelativeToolTip": "IntegratedMedicalCenter\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T22:18:53.827Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateNew.cs [Design]",
+              "DocumentMoniker": "E:\\vsAllProject\\IntegratedMedicalCenter\\IntegratedMedicalCenter\\CreateNew.cs",
+              "RelativeDocumentMoniker": "IntegratedMedicalCenter\\CreateNew.cs",
+              "ToolTip": "E:\\vsAllProject\\IntegratedMedicalCenter\\IntegratedMedicalCenter\\CreateNew.cs [Design]",
+              "RelativeToolTip": "IntegratedMedicalCenter\\CreateNew.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-04-13T11:09:26.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateForm.cs [Design]",
+              "DocumentMoniker": "E:\\vsAllProject\\IntegratedMedicalCenter\\IntegratedMedicalCenter\\UpdateForm.cs",
+              "RelativeDocumentMoniker": "IntegratedMedicalCenter\\UpdateForm.cs",
+              "ToolTip": "E:\\vsAllProject\\IntegratedMedicalCenter\\IntegratedMedicalCenter\\UpdateForm.cs [Design]",
+              "RelativeToolTip": "IntegratedMedicalCenter\\UpdateForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2020-08-22T05:34:43.457Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
